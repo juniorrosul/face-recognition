@@ -1,0 +1,4 @@
+Boost
+scikit-learn
+opencv-contrib-python
+face-recognition
